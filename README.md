@@ -15,7 +15,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<你的用户名>/schematic-replication ~/.claude/skills/schematic-replication
+git clone https://github.com/Joho6666/schematic-replication ~/.claude/skills/schematic-replication
 ```
 
 然后在 Claude Code 里输入 `/schematic-replication`，或直接说"帮我复刻这张原理图"。
